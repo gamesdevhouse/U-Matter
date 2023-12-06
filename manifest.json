@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "U Matter",
+  "description": "U:Matter",
   "dir": "ltr",
   "display": "standalone",
-  "name": "U Matter",
+  "name": "U:Matter",
   "orientation": "any",
   "scope": "/",
-  "short_name": "U Matter",
+  "short_name": "U:Matter",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "U Matter",
+      "name": "U:Matter",
       "url": "",
       "description": ""
     }
